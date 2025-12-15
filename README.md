@@ -11,11 +11,13 @@ hands-on practice with JavaScript fundamentals.
 
 ## Folder Structure
 
+```
 js-practice/
 |-- 01-variables.js
 |-- 02-data-types.js
 |-- 03-practice.js
 |-- README.md
+```
 
 ---
 
