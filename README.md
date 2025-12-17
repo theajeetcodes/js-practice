@@ -4,6 +4,7 @@ I am learning JavaScript step by step by understanding concepts, writing clean c
 
 This repository reflects my consistency, discipline, and hands-on practice with JavaScript fundamentals.
 
+
 📁 Folder Structure
 js-practice/
 │-- 01-variables.js
@@ -12,6 +13,7 @@ js-practice/
 │-- 04-Comments-and-Operators.js
 │-- 05-Conditional-Statements.js
 │-- README.md
+
 
 📄 Files Overview
 
@@ -22,8 +24,10 @@ Variable naming rules
 Updating variable values
 Console output practice
 
+
 02-data-types.js
 JavaScript data types with theory and examples
+
 Primitive data types:
 Number
 String
@@ -32,11 +36,14 @@ Undefined
 Null
 Symbol
 BigInt
+
 Non-primitive data types:
 Object
 Array
 Function
+
 Usage of typeof operator
+
 
 03-practice.js
 Practice questions based on variables and data types
@@ -44,9 +51,11 @@ Hands-on coding examples
 Output formatting using console.log
 Object and array practice
 
+
 04-Comments-and-Operators.js
 JavaScript comments (single-line & multi-line)
 Importance of comments in clean code
+
 JavaScript operators with theory and examples:
 Arithmetic operators
 Assignment operators
@@ -54,6 +63,7 @@ Comparison operators
 Logical operators
 Unary operators
 Ternary operator
+
 
 05-Conditional-Statements.js
 JavaScript conditional statements with theory and examples
@@ -63,11 +73,13 @@ if-else if-else statement
 switch statement
 Nested if statement
 
+
 🎯 Purpose
 Build strong JavaScript fundamentals
 Practice concepts with clean and readable code
 Track daily learning progress using GitHub
 Prepare for future frontend and backend development
+
 
 👨‍💻 Author
 Ajeet Yadav
