@@ -6,14 +6,15 @@ I am learning JavaScript step by step by understanding concepts, writing clean c
 This repository reflects my consistency, discipline, and hands-on practice with JavaScript fundamentals.
 
 ## Folder Structure
-
+```
 js-practice/
 │-- 01-variables.js  
 │-- 02-data-types.js  
 │-- 03-practice.js  
 │-- 04-Comments-and-Operators.js  
 │-- 05-Conditional-Statements.js  
-│-- README.md  
+│-- README.md 
+``` 
 
 ## Files Overview
 
