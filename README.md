@@ -13,9 +13,9 @@ js-practice/
 │-- 03-practice.js  
 │-- 04-Comments-and-Operators.js  
 │-- 05-Conditional-Statements.js  
-│-- README.md 
-``` 
-
+│-- 06-practice.js  
+│-- README.md  
+```
 ## Files Overview
 
 ### 01-variables.js
@@ -68,6 +68,12 @@ Non-Primitive Data Types:
 - if-else if-else statement
 - switch statement
 - Nested if statement
+
+### 06-practice.js
+- Practice questions based on operators
+- Practice questions based on conditional statements
+- Arithmetic, assignment, comparison, and logical operators
+- if, if-else, if-else if-else, switch, and nested if practice
 
 ## Purpose
 - Build strong JavaScript fundamentals
