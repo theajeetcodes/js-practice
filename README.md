@@ -7,7 +7,7 @@ This repository reflects my consistency, discipline, and hands-on practice with 
 
 ---
 
-## 📁 Folder Structure
+## 📂 Folder Structure
 ```
 js-practice/  
 │-- 01-variables.js  
@@ -19,6 +19,7 @@ js-practice/
 │-- 07-loops.js  
 │-- 08-strings.js  
 │-- 09-practice.js  
+│-- 10-arrays.js  
 │-- README.md  
 ```
 ---
@@ -35,9 +36,9 @@ js-practice/
 ---
 
 ### 02-data-types.js
-JavaScript data types with theory and examples  
+JavaScript data types with theory and examples
 
-**Primitive data types**
+**Primitive Data Types**
 - Number  
 - String  
 - Boolean  
@@ -46,7 +47,7 @@ JavaScript data types with theory and examples
 - Symbol  
 - BigInt  
 
-**Non-primitive data types**
+**Non-Primitive Data Types**
 - Object  
 - Array  
 - Function  
@@ -64,10 +65,13 @@ JavaScript data types with theory and examples
 ---
 
 ### 04-Comments-and-Operators.js
-- JavaScript comments (single-line and multi-line)  
-- Importance of comments in clean code  
+JavaScript comments and operators with examples
 
-**Operators covered**
+**Comments**
+- Single-line comments  
+- Multi-line comments  
+
+**Operators**
 - Arithmetic operators  
 - Assignment operators  
 - Comparison operators  
@@ -78,9 +82,9 @@ JavaScript data types with theory and examples
 ---
 
 ### 05-Conditional-Statements.js
-JavaScript conditional statements with theory and examples  
+JavaScript conditional statements with theory and examples
 
-**Topics covered**
+**Topics Covered**
 - if statement  
 - if-else statement  
 - if-else if-else statement  
@@ -97,9 +101,9 @@ JavaScript conditional statements with theory and examples
 ---
 
 ### 07-loops.js
-JavaScript loops with theory and examples  
+JavaScript loops with theory and examples
 
-**Topics covered**
+**Topics Covered**
 - for loop  
 - while loop  
 - do-while loop  
@@ -111,23 +115,37 @@ JavaScript loops with theory and examples
 ---
 
 ### 08-strings.js
-JavaScript strings with theory and examples  
+JavaScript strings with theory and examples
 
-**Topics covered**
-- Creating strings  
-- String length and indexing  
+**Topics Covered**
+- String creation  
+- String length  
+- Accessing characters  
+- String methods  
 - String concatenation  
 - Template literals  
-- Common string methods  
-- String immutability  
 
 ---
 
 ### 09-practice.js
 - Practice questions based on loops and strings  
-- Loop-based logic building  
-- String manipulation using loops  
-- Hands-on problem solving  
+- Logical thinking using loops  
+- String manipulation practice  
+
+---
+
+### 10-arrays.js
+JavaScript arrays with complete theory and examples
+
+**Topics Covered**
+- Creating arrays  
+- Array length  
+- Accessing and modifying elements  
+- push(), pop(), shift(), unshift()  
+- includes(), indexOf()  
+- slice() vs splice()  
+- Looping arrays using `for` and `for...of`  
+- Checking array type using `Array.isArray()`  
 
 ---
 
@@ -139,10 +157,11 @@ JavaScript strings with theory and examples
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 **Ajeet Yadav**  
 JavaScript Learner | Future Full Stack Developer  
 
 ---
 
 This repository is updated regularly as I continue learning JavaScript.
+
