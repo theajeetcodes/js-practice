@@ -20,11 +20,12 @@ js-practice/
 │-- 08-strings.js  
 │-- 09-practice.js  
 │-- 10-arrays.js  
+│-- 11-practice.js  
 │-- README.md  
 ```
 ---
 
-## 📄 Files Overview
+## 📘 Files Overview
 
 ### 01-variables.js
 - Introduction to JavaScript variables  
@@ -36,7 +37,7 @@ js-practice/
 ---
 
 ### 02-data-types.js
-JavaScript data types with theory and examples
+- JavaScript data types with theory and examples  
 
 **Primitive Data Types**
 - Number  
@@ -65,13 +66,10 @@ JavaScript data types with theory and examples
 ---
 
 ### 04-Comments-and-Operators.js
-JavaScript comments and operators with examples
+- JavaScript comments (single-line & multi-line)  
+- Importance of comments in clean code  
 
-**Comments**
-- Single-line comments  
-- Multi-line comments  
-
-**Operators**
+**Operators Covered**
 - Arithmetic operators  
 - Assignment operators  
 - Comparison operators  
@@ -82,7 +80,7 @@ JavaScript comments and operators with examples
 ---
 
 ### 05-Conditional-Statements.js
-JavaScript conditional statements with theory and examples
+- JavaScript conditional statements with theory and examples  
 
 **Topics Covered**
 - if statement  
@@ -101,7 +99,7 @@ JavaScript conditional statements with theory and examples
 ---
 
 ### 07-loops.js
-JavaScript loops with theory and examples
+- JavaScript loops with theory and examples  
 
 **Topics Covered**
 - for loop  
@@ -115,37 +113,55 @@ JavaScript loops with theory and examples
 ---
 
 ### 08-strings.js
-JavaScript strings with theory and examples
+- JavaScript strings with theory and examples  
 
 **Topics Covered**
-- String creation  
-- String length  
-- Accessing characters  
-- String methods  
+- Creating strings  
+- String length & indexing  
 - String concatenation  
 - Template literals  
+- String methods  
+  - toUpperCase()  
+  - toLowerCase()  
+  - trim()  
+  - slice()  
+  - replace()  
+  - includes()  
+  - startsWith()  
+  - endsWith()  
+  - charAt()  
+  - split()  
+- String immutability  
 
 ---
 
 ### 09-practice.js
 - Practice questions based on loops and strings  
-- Logical thinking using loops  
-- String manipulation practice  
+- Logic building using loops  
+- Real-world string handling practice  
 
 ---
 
 ### 10-arrays.js
-JavaScript arrays with complete theory and examples
+- JavaScript arrays with theory and examples  
 
 **Topics Covered**
 - Creating arrays  
+- Accessing & modifying elements  
 - Array length  
-- Accessing and modifying elements  
 - push(), pop(), shift(), unshift()  
 - includes(), indexOf()  
 - slice() vs splice()  
-- Looping arrays using `for` and `for...of`  
-- Checking array type using `Array.isArray()`  
+- Looping arrays  
+- Array type checking  
+
+---
+
+### 11-practice.js
+- Practice questions based on arrays  
+- Array traversal using loops  
+- Condition-based array logic  
+- Strengthening problem-solving skills  
 
 ---
 
@@ -161,7 +177,4 @@ JavaScript arrays with complete theory and examples
 **Ajeet Yadav**  
 JavaScript Learner | Future Full Stack Developer  
 
----
-
 This repository is updated regularly as I continue learning JavaScript.
-
