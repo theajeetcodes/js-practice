@@ -1,9 +1,9 @@
-# JavaScript Practice Repository
+# 🚀 JavaScript Practice Repository
 
-This repository contains my JavaScript learning and practice work.  
-I am learning JavaScript step by step by understanding concepts, writing clean code, and practicing regularly.
+This repository contains my **JavaScript learning and practice work**.  
+I am learning JavaScript **step by step** by understanding concepts, writing clean code, and practicing regularly.
 
-This repository reflects my consistency, discipline, and hands-on practice with JavaScript fundamentals.
+This repository reflects my **consistency, discipline, and hands-on practice** with JavaScript fundamentals.
 
 ---
 
@@ -21,6 +21,7 @@ js-practice/
 │-- 09-practice.js  
 │-- 10-arrays.js  
 │-- 11-practice.js  
+│-- 12-function-and-methods.js  
 │-- README.md  
 ```
 ---
@@ -83,11 +84,11 @@ js-practice/
 - JavaScript conditional statements with theory and examples  
 
 **Topics Covered**
-- if statement  
-- if-else statement  
-- if-else if-else statement  
-- switch statement  
-- Nested if statement  
+- `if` statement  
+- `if-else` statement  
+- `if-else if-else` statement  
+- `switch` statement  
+- Nested `if` statement  
 
 ---
 
@@ -102,13 +103,13 @@ js-practice/
 - JavaScript loops with theory and examples  
 
 **Topics Covered**
-- for loop  
-- while loop  
-- do-while loop  
-- for...of loop  
-- for...in loop  
-- break statement  
-- continue statement  
+- `for` loop  
+- `while` loop  
+- `do-while` loop  
+- `for...of` loop  
+- `for...in` loop  
+- `break` statement  
+- `continue` statement  
 
 ---
 
@@ -121,16 +122,16 @@ js-practice/
 - String concatenation  
 - Template literals  
 - String methods  
-  - toUpperCase()  
-  - toLowerCase()  
-  - trim()  
-  - slice()  
-  - replace()  
-  - includes()  
-  - startsWith()  
-  - endsWith()  
-  - charAt()  
-  - split()  
+  - `toUpperCase()`  
+  - `toLowerCase()`  
+  - `trim()`  
+  - `slice()`  
+  - `replace()`  
+  - `includes()`  
+  - `startsWith()`  
+  - `endsWith()`  
+  - `charAt()`  
+  - `split()`  
 - String immutability  
 
 ---
@@ -149,9 +150,9 @@ js-practice/
 - Creating arrays  
 - Accessing & modifying elements  
 - Array length  
-- push(), pop(), shift(), unshift()  
-- includes(), indexOf()  
-- slice() vs splice()  
+- `push()`, `pop()`, `shift()`, `unshift()`  
+- `includes()`, `indexOf()`  
+- `slice()` vs `splice()`  
 - Looping arrays  
 - Array type checking  
 
@@ -162,6 +163,19 @@ js-practice/
 - Array traversal using loops  
 - Condition-based array logic  
 - Strengthening problem-solving skills  
+
+---
+
+### 12-function-and-methods.js
+- Function declaration  
+- Function parameters  
+- Return values  
+- Function expressions  
+- Arrow functions  
+- Object methods  
+- String methods  
+- Array methods  
+- Function vs Method difference  
 
 ---
 
@@ -176,5 +190,7 @@ js-practice/
 ## 👤 Author
 **Ajeet Yadav**  
 JavaScript Learner | Future Full Stack Developer  
+
+---
 
 This repository is updated regularly as I continue learning JavaScript.
