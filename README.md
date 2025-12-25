@@ -1,9 +1,9 @@
-# 🚀 JavaScript Practice Repository
+# JavaScript Practice Repository
 
-This repository contains my **JavaScript learning and practice work**.  
-I am learning JavaScript **step by step** by understanding concepts, writing clean code, and practicing regularly.
+This repository contains my JavaScript learning and practice work.  
+I am learning JavaScript step by step by understanding concepts, writing clean code, and practicing regularly.
 
-This repository reflects my **consistency, discipline, and hands-on practice** with JavaScript fundamentals.
+This repository reflects my consistency, discipline, and hands-on practice with JavaScript fundamentals.
 
 ---
 
@@ -22,6 +22,7 @@ js-practice/
 │-- 10-arrays.js  
 │-- 11-practice.js  
 │-- 12-function-and-methods.js  
+│-- 13-practice.js  
 │-- README.md  
 ```
 ---
@@ -34,8 +35,6 @@ js-practice/
 - Variable naming rules  
 - Updating variable values  
 - Console output practice  
-
----
 
 ### 02-data-types.js
 - JavaScript data types with theory and examples  
@@ -56,15 +55,11 @@ js-practice/
 
 - Usage of `typeof` operator  
 
----
-
 ### 03-practice.js
 - Practice questions based on variables and data types  
 - Hands-on coding examples  
 - Output formatting using `console.log`  
 - Object and array practice  
-
----
 
 ### 04-Comments-and-Operators.js
 - JavaScript comments (single-line & multi-line)  
@@ -78,40 +73,32 @@ js-practice/
 - Unary operators  
 - Ternary operator  
 
----
-
 ### 05-Conditional-Statements.js
 - JavaScript conditional statements with theory and examples  
 
 **Topics Covered**
-- `if` statement  
-- `if-else` statement  
-- `if-else if-else` statement  
-- `switch` statement  
-- Nested `if` statement  
-
----
+- if statement  
+- if-else statement  
+- if-else if-else statement  
+- switch statement  
+- Nested if statement  
 
 ### 06-practice.js
 - Practice questions based on operators and conditional statements  
 - Condition-based logic building  
 - Hands-on problem solving  
 
----
-
 ### 07-loops.js
 - JavaScript loops with theory and examples  
 
 **Topics Covered**
-- `for` loop  
-- `while` loop  
-- `do-while` loop  
-- `for...of` loop  
-- `for...in` loop  
-- `break` statement  
-- `continue` statement  
-
----
+- for loop  
+- while loop  
+- do-while loop  
+- for...of loop  
+- for...in loop  
+- break statement  
+- continue statement  
 
 ### 08-strings.js
 - JavaScript strings with theory and examples  
@@ -122,26 +109,22 @@ js-practice/
 - String concatenation  
 - Template literals  
 - String methods  
-  - `toUpperCase()`  
-  - `toLowerCase()`  
-  - `trim()`  
-  - `slice()`  
-  - `replace()`  
-  - `includes()`  
-  - `startsWith()`  
-  - `endsWith()`  
-  - `charAt()`  
-  - `split()`  
+  - toUpperCase()  
+  - toLowerCase()  
+  - trim()  
+  - slice()  
+  - replace()  
+  - includes()  
+  - startsWith()  
+  - endsWith()  
+  - charAt()  
+  - split()  
 - String immutability  
-
----
 
 ### 09-practice.js
 - Practice questions based on loops and strings  
 - Logic building using loops  
 - Real-world string handling practice  
-
----
 
 ### 10-arrays.js
 - JavaScript arrays with theory and examples  
@@ -150,13 +133,11 @@ js-practice/
 - Creating arrays  
 - Accessing & modifying elements  
 - Array length  
-- `push()`, `pop()`, `shift()`, `unshift()`  
-- `includes()`, `indexOf()`  
-- `slice()` vs `splice()`  
+- push(), pop(), shift(), unshift()  
+- includes(), indexOf()  
+- slice() vs splice()  
 - Looping arrays  
 - Array type checking  
-
----
 
 ### 11-practice.js
 - Practice questions based on arrays  
@@ -164,18 +145,25 @@ js-practice/
 - Condition-based array logic  
 - Strengthening problem-solving skills  
 
----
-
 ### 12-function-and-methods.js
+- JavaScript functions and methods with theory and code  
+
+**Topics Covered**
 - Function declaration  
 - Function parameters  
 - Return values  
-- Function expressions  
+- Function expression  
 - Arrow functions  
 - Object methods  
 - String methods  
 - Array methods  
-- Function vs Method difference  
+- Difference between functions and methods  
+
+### 13-practice.js
+- Practice questions based on functions and methods  
+- Function calling and return-based logic  
+- Method usage on strings and arrays  
+- Strengthening logical thinking using functions  
 
 ---
 
@@ -190,7 +178,5 @@ js-practice/
 ## 👤 Author
 **Ajeet Yadav**  
 JavaScript Learner | Future Full Stack Developer  
-
----
 
 This repository is updated regularly as I continue learning JavaScript.
