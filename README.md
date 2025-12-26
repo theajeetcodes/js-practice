@@ -23,6 +23,8 @@ js-practice/
 │-- 11-practice.js  
 │-- 12-function-and-methods.js  
 │-- 13-practice.js  
+│-- 14-dom.js  
+│-- index.html  
 │-- README.md  
 ```
 ---
@@ -37,7 +39,7 @@ js-practice/
 - Console output practice  
 
 ### 02-data-types.js
-- JavaScript data types with theory and examples  
+JavaScript data types with theory and examples  
 
 **Primitive Data Types**
 - Number  
@@ -74,14 +76,14 @@ js-practice/
 - Ternary operator  
 
 ### 05-Conditional-Statements.js
-- JavaScript conditional statements with theory and examples  
+JavaScript conditional statements with theory and examples  
 
 **Topics Covered**
-- if statement  
-- if-else statement  
-- if-else if-else statement  
-- switch statement  
-- Nested if statement  
+- `if` statement  
+- `if-else` statement  
+- `if-else if-else` statement  
+- `switch` statement  
+- Nested `if` statement  
 
 ### 06-practice.js
 - Practice questions based on operators and conditional statements  
@@ -89,19 +91,19 @@ js-practice/
 - Hands-on problem solving  
 
 ### 07-loops.js
-- JavaScript loops with theory and examples  
+JavaScript loops with theory and examples  
 
 **Topics Covered**
-- for loop  
-- while loop  
-- do-while loop  
-- for...of loop  
-- for...in loop  
-- break statement  
-- continue statement  
+- `for` loop  
+- `while` loop  
+- `do-while` loop  
+- `for...of` loop  
+- `for...in` loop  
+- `break` statement  
+- `continue` statement  
 
 ### 08-strings.js
-- JavaScript strings with theory and examples  
+JavaScript strings with theory and examples  
 
 **Topics Covered**
 - Creating strings  
@@ -109,16 +111,16 @@ js-practice/
 - String concatenation  
 - Template literals  
 - String methods  
-  - toUpperCase()  
-  - toLowerCase()  
-  - trim()  
-  - slice()  
-  - replace()  
-  - includes()  
-  - startsWith()  
-  - endsWith()  
-  - charAt()  
-  - split()  
+  - `toUpperCase()`  
+  - `toLowerCase()`  
+  - `trim()`  
+  - `slice()`  
+  - `replace()`  
+  - `includes()`  
+  - `startsWith()`  
+  - `endsWith()`  
+  - `charAt()`  
+  - `split()`  
 - String immutability  
 
 ### 09-practice.js
@@ -127,15 +129,15 @@ js-practice/
 - Real-world string handling practice  
 
 ### 10-arrays.js
-- JavaScript arrays with theory and examples  
+JavaScript arrays with theory and examples  
 
 **Topics Covered**
 - Creating arrays  
 - Accessing & modifying elements  
 - Array length  
-- push(), pop(), shift(), unshift()  
-- includes(), indexOf()  
-- slice() vs splice()  
+- `push()`, `pop()`, `shift()`, `unshift()`  
+- `includes()`, `indexOf()`  
+- `slice()` vs `splice()`  
 - Looping arrays  
 - Array type checking  
 
@@ -146,7 +148,7 @@ js-practice/
 - Strengthening problem-solving skills  
 
 ### 12-function-and-methods.js
-- JavaScript functions and methods with theory and code  
+JavaScript functions and methods with theory and code  
 
 **Topics Covered**
 - Function declaration  
@@ -164,6 +166,18 @@ js-practice/
 - Function calling and return-based logic  
 - Method usage on strings and arrays  
 - Strengthening logical thinking using functions  
+
+### 14-dom.js
+- Introduction to DOM (Document Object Model)  
+- Selecting elements (`getElementById`, `querySelector`)  
+- Changing text and styles using JavaScript  
+- DOM-based logic building  
+- Practical DOM manipulation examples  
+
+### index.html
+- HTML file used to test and connect JavaScript DOM concepts  
+- Script linking with JavaScript files  
+- Basic structure for DOM practice  
 
 ---
 
