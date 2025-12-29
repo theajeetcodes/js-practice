@@ -25,10 +25,12 @@ js-practice/
 │-- 13-practice.js  
 │-- 14-dom.js  
 │-- index.html  
-│-- 15-practice.js  
-│-- 15-practice.html  
+│-- 15-dom-practice.js  
+│-- 15-dom-practice.html  
 │-- 16-events.js  
 │-- 16-events.html  
+│-- 17-events-practice.js  
+│-- 17-events-practice.html  
 │-- README.md  
 ```
 ---
@@ -42,10 +44,12 @@ Variable naming rules
 Updating variable values  
 Console output practice  
 
+---
+
 ### 02-data-types.js
 JavaScript data types with theory and examples  
 
-**Primitive Data Types**
+Primitive Data Types  
 - Number  
 - String  
 - Boolean  
@@ -54,178 +58,160 @@ JavaScript data types with theory and examples
 - Symbol  
 - BigInt  
 
-**Non-Primitive Data Types**
+Non-Primitive Data Types  
 - Object  
 - Array  
 - Function  
 
-Usage of `typeof` operator  
+Usage of typeof operator  
+
+---
 
 ### 03-practice.js
 Practice questions based on variables and data types  
 Hands-on coding examples  
-Output formatting using console.log  
-Object and array practice  
+Console output practice  
+
+---
 
 ### 04-Comments-and-Operators.js
-JavaScript comments (single-line & multi-line)  
-Importance of comments in clean code  
+Single-line and multi-line comments  
+Arithmetic, assignment, comparison operators  
+Logical, unary, and ternary operators  
 
-**Operators Covered**
-- Arithmetic operators  
-- Assignment operators  
-- Comparison operators  
-- Logical operators  
-- Unary operators  
-- Ternary operator  
+---
 
 ### 05-Conditional-Statements.js
-JavaScript conditional statements with theory and examples  
+if statement  
+if-else statement  
+else-if ladder  
+switch statement  
+Nested conditions  
 
-**Topics Covered**
-- if statement  
-- if-else statement  
-- if-else if-else statement  
-- switch statement  
-- Nested if statement  
+---
 
 ### 06-practice.js
-Practice questions based on operators and conditional statements  
-Condition-based logic building  
-Hands-on problem solving  
+Practice questions based on operators and conditions  
+Logic-building exercises  
+
+---
 
 ### 07-loops.js
-JavaScript loops with theory and examples  
+for loop  
+while loop  
+do-while loop  
+for...of loop  
+for...in loop  
+break and continue  
 
-**Topics Covered**
-- for loop  
-- while loop  
-- do-while loop  
-- for...of loop  
-- for...in loop  
-- break statement  
-- continue statement  
+---
 
 ### 08-strings.js
-JavaScript strings with theory and examples  
+String creation and indexing  
+Template literals  
+String methods  
+String immutability  
 
-**Topics Covered**
-- Creating strings  
-- String length & indexing  
-- String concatenation  
-- Template literals  
-- String methods  
-  - toUpperCase()  
-  - toLowerCase()  
-  - trim()  
-  - slice()  
-  - replace()  
-  - includes()  
-  - startsWith()  
-  - endsWith()  
-  - charAt()  
-  - split()  
-- String immutability  
+---
 
 ### 09-practice.js
-Practice questions based on loops and strings  
-Logic building using loops  
-Real-world string handling practice  
+Practice based on loops and strings  
+Real-world logic questions  
+
+---
 
 ### 10-arrays.js
-JavaScript arrays with theory and examples  
+Array creation and access  
+push, pop, shift, unshift  
+slice vs splice  
+Array looping  
 
-**Topics Covered**
-- Creating arrays  
-- Accessing & modifying elements  
-- Array length  
-- push(), pop(), shift(), unshift()  
-- includes(), indexOf()  
-- slice() vs splice()  
-- Looping arrays  
-- Array type checking  
+---
 
 ### 11-practice.js
-Practice questions based on arrays  
-Array traversal using loops  
-Condition-based array logic  
-Strengthening problem-solving skills  
+Array-based practice questions  
+Logic strengthening  
+
+---
 
 ### 12-function-and-methods.js
-JavaScript functions and methods with theory and code  
+Function declaration  
+Parameters and return  
+Arrow functions  
+Object methods  
+String and array methods  
 
-**Topics Covered**
-- Function declaration  
-- Function parameters  
-- Return values  
-- Function expression  
-- Arrow functions  
-- Object methods  
-- String methods  
-- Array methods  
-- Difference between functions and methods  
+---
 
 ### 13-practice.js
-Practice questions based on functions and methods  
-Function calling and return-based logic  
-Method usage on strings and arrays  
-Strengthening logical thinking using functions  
+Function-based practice questions  
+Logic using return values  
+
+---
 
 ### 14-dom.js
-Introduction to DOM (Document Object Model)  
-Selecting elements (getElementById, querySelector)  
-Changing text and styles using JavaScript  
-DOM-based logic building  
-Practical DOM manipulation examples  
+Introduction to DOM  
+Selecting elements  
+Changing text and styles  
+Creating and removing elements  
+
+---
 
 ### index.html
-HTML file used to test and connect JavaScript DOM concepts  
-Script linking with JavaScript files  
-Basic structure for DOM practice  
+HTML file for DOM testing  
+JavaScript file linking  
 
-### 15-practice.js
-DOM practice questions based on real-world scenarios  
-Hands-on DOM logic building  
-Event handling and element manipulation practice  
+---
 
-### 15-practice.html
-HTML structure for DOM practice questions  
-Connected with DOM practice JavaScript file  
+### 15-dom-practice.js
+DOM-based practice questions  
+Button click handling  
+Dynamic DOM updates  
+
+---
+
+### 15-dom-practice.html
+HTML structure for DOM practice  
+Buttons and elements for interaction  
+
+---
 
 ### 16-events.js
-JavaScript Events theory with practical examples  
-Understanding user interactions  
-Usage of addEventListener  
+JavaScript events theory  
+Click, mouse, keyboard events  
+Event object  
+preventDefault usage  
 
-**Topics Covered**
-- click event  
-- input event  
-- mouseover & mouseout events  
-- keyboard events  
-- form submit event  
-- event object  
-- preventDefault()  
-- this keyword in events  
-- multiple events on one element  
+---
 
 ### 16-events.html
-HTML file for JavaScript Events practice  
-Buttons, inputs, hover box, and form examples  
-Used to visually test and understand event handling  
+HTML structure for event handling  
+Buttons, inputs, and elements  
+
+---
+
+### 17-events-practice.js
+Practice questions based on JavaScript events  
+Click counter logic  
+Mouse hover background change  
+Input event handling  
+
+---
+
+### 17-events-practice.html
+HTML file for event practice  
+Buttons, input fields, and boxes  
+Used with 17-events-practice.js  
 
 ---
 
 ## 🎯 Purpose
 Build strong JavaScript fundamentals  
-Practice concepts with clean and readable code  
-Track daily learning progress using GitHub  
-Prepare for future frontend and backend development  
+Practice concepts with clean code  
+Track learning progress on GitHub  
 
 ---
 
 ## 👤 Author
-
-**Ajeet Yadav**  
-JavaScript Learner | Future Full Stack Developer  
-
-This repository is updated regularly as I continue learning JavaScript.
+Ajeet Yadav  
+JavaScript Learner | Future Full Stack Developer
