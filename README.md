@@ -153,4 +153,68 @@ js-practice/
 
 ---
 
-### 12-function-and-
+### 12-function-and-methods.js
+- JavaScript functions and methods  
+
+---
+
+### 13-practice.js
+- Practice based on functions and methods  
+
+---
+
+### 14-dom.js
+- Introduction to DOM  
+- Element selection  
+- Style and text manipulation  
+
+---
+
+### 15-dom-practice.js / 15-dom-practice.html
+- DOM practice questions  
+- Button click interaction  
+- Input text handling  
+- Dynamic element manipulation  
+
+---
+
+### index.html
+- DOM testing HTML file  
+- JavaScript file linking  
+
+---
+
+### 16-events.js / 16-events.html
+- JavaScript events theory  
+- Click, input, hover, keyboard, form events  
+
+---
+
+### 17-events-practice.js / 17-events-practice.html
+- Events practice questions  
+- Click counter  
+- Input character counter  
+- Hover color change  
+
+---
+
+### 18-classes-and-objects.js
+- Classes and Objects concept  
+- Constructor and methods  
+- Real-world example using class  
+
+---
+
+## 🎯 Purpose
+- Build strong JavaScript fundamentals  
+- Practice with clean code  
+- Track progress on GitHub  
+- Prepare for Full Stack development  
+
+---
+
+## 👤 Author
+**Ajeet Yadav**  
+JavaScript Learner | Future Full Stack Developer  
+
+This repository is updated regularly as I continue learning JavaScript.
