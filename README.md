@@ -24,14 +24,15 @@ js-practice/
 │-- 12-function-and-methods.js  
 │-- 13-practice.js  
 │-- 14-dom.js  
+│-- index.html  
 │-- 15-dom-practice.js  
 │-- 15-dom-practice.html  
-│-- index.html  
 │-- 16-events.js  
 │-- 16-events.html  
 │-- 17-events-practice.js  
 │-- 17-events-practice.html  
 │-- 18-classes-and-objects.js  
+│-- 19-classes-objects-practice.js  
 │-- README.md  
 ```
 ---
@@ -44,8 +45,6 @@ js-practice/
 - Variable naming rules  
 - Updating variable values  
 - Console output practice  
-
----
 
 ### 02-data-types.js
 - JavaScript data types with theory and examples  
@@ -66,150 +65,129 @@ js-practice/
 
 - Usage of `typeof` operator  
 
----
-
 ### 03-practice.js
 - Practice questions based on variables and data types  
 - Hands-on coding examples  
 - Object and array practice  
 
----
-
 ### 04-Comments-and-Operators.js
-- JavaScript comments  
-- Importance of comments in clean code  
-
-**Operators Covered**
-- Arithmetic  
-- Assignment  
-- Comparison  
-- Logical  
-- Unary  
-- Ternary  
-
----
+- Single-line and multi-line comments  
+- Importance of comments  
+- Operators covered:
+  - Arithmetic  
+  - Assignment  
+  - Comparison  
+  - Logical  
+  - Unary  
+  - Ternary  
 
 ### 05-Conditional-Statements.js
 - Conditional statements with examples  
-
-**Topics Covered**
 - if  
 - if-else  
 - if-else if-else  
 - switch  
 - Nested if  
 
----
-
 ### 06-practice.js
-- Practice based on operators and conditionals  
-- Logic building  
-
----
+- Practice on operators and conditions  
+- Logic building exercises  
 
 ### 07-loops.js
-- JavaScript loops  
-
-**Topics Covered**
-- for  
-- while  
-- do-while  
+- JavaScript loops with examples  
+- for loop  
+- while loop  
+- do-while loop  
 - for...of  
 - for...in  
-- break  
-- continue  
-
----
+- break and continue  
 
 ### 08-strings.js
-- JavaScript strings  
-
-**Topics Covered**
-- String creation  
-- Indexing  
-- Methods  
-- Immutability  
-
----
+- String creation and manipulation  
+- String methods:
+  - toUpperCase()  
+  - toLowerCase()  
+  - trim()  
+  - slice()  
+  - replace()  
+  - includes()  
+  - startsWith()  
+  - endsWith()  
+  - charAt()  
+  - split()  
+- String immutability  
 
 ### 09-practice.js
-- Practice based on loops and strings  
-
----
+- Practice on loops and strings  
+- Real-world string handling  
 
 ### 10-arrays.js
-- JavaScript arrays  
-
-**Topics Covered**
+- Creating and modifying arrays  
 - push, pop, shift, unshift  
 - slice vs splice  
 - Looping arrays  
 
----
-
 ### 11-practice.js
-- Array practice  
-- Logic strengthening  
-
----
+- Array-based practice problems  
+- Strengthening problem-solving skills  
 
 ### 12-function-and-methods.js
-- JavaScript functions and methods  
-
----
+- Function declaration  
+- Parameters and return values  
+- Function expressions  
+- Arrow functions  
+- Object, string, and array methods  
 
 ### 13-practice.js
-- Practice based on functions and methods  
-
----
+- Practice on functions and methods  
+- Logical thinking improvement  
 
 ### 14-dom.js
 - Introduction to DOM  
-- Element selection  
-- Style and text manipulation  
+- Selecting elements  
+- Changing text and styles  
+- DOM manipulation examples  
 
----
+### index.html
+- HTML file to test DOM concepts  
+- Script linking and structure  
 
 ### 15-dom-practice.js / 15-dom-practice.html
 - DOM practice questions  
-- Button click interaction  
-- Input text handling  
-- Dynamic element manipulation  
-
----
-
-### index.html
-- DOM testing HTML file  
-- JavaScript file linking  
-
----
+- Button click  
+- Input handling  
+- Dynamic element creation  
 
 ### 16-events.js / 16-events.html
-- JavaScript events theory  
-- Click, input, hover, keyboard, form events  
-
----
+- JavaScript events theory and examples  
+- click, input, mouse, keyboard, form events  
 
 ### 17-events-practice.js / 17-events-practice.html
-- Events practice questions  
-- Click counter  
-- Input character counter  
-- Hover color change  
-
----
+- Event-based practice questions  
+- Button counter  
+- Character counter  
+- Hover effects  
 
 ### 18-classes-and-objects.js
-- Classes and Objects concept  
-- Constructor and methods  
-- Real-world example using class  
+- Introduction to OOP in JavaScript  
+- Classes and objects  
+- Constructor  
+- Methods  
+- Real-world example using classes  
+
+### 19-classes-objects-practice.js
+- Practice questions on classes and objects  
+- Creating multiple classes  
+- Using methods and properties  
+- Strengthening OOP understanding  
 
 ---
 
 ## 🎯 Purpose
 - Build strong JavaScript fundamentals  
-- Practice with clean code  
-- Track progress on GitHub  
-- Prepare for Full Stack development  
+- Practice concepts with clean and readable code  
+- Track daily learning progress using GitHub  
+- Prepare for frontend and backend development  
 
 ---
 
