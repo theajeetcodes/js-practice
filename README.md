@@ -33,6 +33,7 @@ js-practice/
 │-- 17-events-practice.html  
 │-- 18-classes-and-objects.js  
 │-- 19-classes-objects-practice.js  
+│-- callback_promise_async.js  
 │-- README.md  
 ```
 ---
@@ -68,118 +69,89 @@ js-practice/
 ### 03-practice.js
 - Practice questions based on variables and data types  
 - Hands-on coding examples  
-- Object and array practice  
 
 ### 04-Comments-and-Operators.js
-- Single-line and multi-line comments  
-- Importance of comments  
-- Operators covered:
-  - Arithmetic  
-  - Assignment  
-  - Comparison  
-  - Logical  
-  - Unary  
-  - Ternary  
+- Single-line & multi-line comments  
+- Arithmetic, Assignment, Comparison operators  
+- Logical, Unary, Ternary operators  
 
 ### 05-Conditional-Statements.js
-- Conditional statements with examples  
 - if  
 - if-else  
-- if-else if-else  
+- if-else-if  
 - switch  
 - Nested if  
 
 ### 06-practice.js
-- Practice on operators and conditions  
-- Logic building exercises  
+- Practice based on operators and conditions  
 
 ### 07-loops.js
-- JavaScript loops with examples  
 - for loop  
 - while loop  
 - do-while loop  
 - for...of  
 - for...in  
-- break and continue  
+- break & continue  
 
 ### 08-strings.js
-- String creation and manipulation  
-- String methods:
-  - toUpperCase()  
-  - toLowerCase()  
-  - trim()  
-  - slice()  
-  - replace()  
-  - includes()  
-  - startsWith()  
-  - endsWith()  
-  - charAt()  
-  - split()  
+- String creation & manipulation  
+- Common string methods  
 - String immutability  
 
 ### 09-practice.js
-- Practice on loops and strings  
-- Real-world string handling  
+- Loop & string based practice questions  
 
 ### 10-arrays.js
-- Creating and modifying arrays  
+- Array creation  
 - push, pop, shift, unshift  
 - slice vs splice  
 - Looping arrays  
 
 ### 11-practice.js
-- Array-based practice problems  
-- Strengthening problem-solving skills  
+- Array-based logic building practice  
 
 ### 12-function-and-methods.js
 - Function declaration  
-- Parameters and return values  
-- Function expressions  
+- Parameters & return  
 - Arrow functions  
-- Object, string, and array methods  
+- Object, String & Array methods  
 
 ### 13-practice.js
-- Practice on functions and methods  
-- Logical thinking improvement  
+- Practice questions on functions and methods  
 
 ### 14-dom.js
-- Introduction to DOM  
-- Selecting elements  
-- Changing text and styles  
-- DOM manipulation examples  
+- DOM introduction  
+- Element selection  
+- Style & text manipulation  
+- Dynamic DOM examples  
 
-### index.html
-- HTML file to test DOM concepts  
-- Script linking and structure  
+### 15-dom-practice.js / html
+- DOM practice questions with solutions  
+- Button, input and dynamic element handling  
 
-### 15-dom-practice.js / 15-dom-practice.html
-- DOM practice questions  
-- Button click  
-- Input handling  
-- Dynamic element creation  
-
-### 16-events.js / 16-events.html
-- JavaScript events theory and examples  
+### 16-events.js / html
+- JavaScript events theory  
 - click, input, mouse, keyboard, form events  
 
-### 17-events-practice.js / 17-events-practice.html
+### 17-events-practice.js / html
 - Event-based practice questions  
-- Button counter  
-- Character counter  
-- Hover effects  
+- Counter, input tracking, hover effects  
 
 ### 18-classes-and-objects.js
-- Introduction to OOP in JavaScript  
-- Classes and objects  
-- Constructor  
-- Methods  
-- Real-world example using classes  
+- JavaScript classes and objects  
+- constructor  
+- methods  
+- real-world class examples  
 
 ### 19-classes-objects-practice.js
-- Practice questions on classes and objects  
-- Creating multiple classes  
-- Using methods and properties  
-- Strengthening OOP understanding  
+- Practice questions based on classes & objects  
+- Object-oriented thinking  
+
+### callback_promise_async.js
+- Callback functions  
+- Promises (then / catch)  
+- Async & Await  
+- Asynchronous JavaScript flow  
 
 ---
 
@@ -187,7 +159,7 @@ js-practice/
 - Build strong JavaScript fundamentals  
 - Practice concepts with clean and readable code  
 - Track daily learning progress using GitHub  
-- Prepare for frontend and backend development  
+- Prepare for frontend & backend development  
 
 ---
 
