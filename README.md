@@ -34,137 +34,78 @@ js-practice/
 │-- 18-classes-and-objects.js  
 │-- 19-classes-objects-practice.js  
 │-- callback_promise_async.js  
+|-- callback_promise_async_practice.js
 │-- README.md  
 ```
 ---
 
+
+---
+
 ## 📘 Files Overview
 
-### 01-variables.js
-- Introduction to JavaScript variables  
-- Usage of `let` and `const`  
-- Variable naming rules  
-- Updating variable values  
-- Console output practice  
-
-### 02-data-types.js
-- JavaScript data types with theory and examples  
-
-**Primitive Data Types**
-- Number  
-- String  
-- Boolean  
-- Undefined  
-- Null  
-- Symbol  
-- BigInt  
-
-**Non-Primitive Data Types**
-- Object  
-- Array  
-- Function  
-
-- Usage of `typeof` operator  
-
-### 03-practice.js
-- Practice questions based on variables and data types  
-- Hands-on coding examples  
-
-### 04-Comments-and-Operators.js
-- Single-line & multi-line comments  
-- Arithmetic, Assignment, Comparison operators  
-- Logical, Unary, Ternary operators  
-
-### 05-Conditional-Statements.js
-- if  
-- if-else  
-- if-else-if  
-- switch  
-- Nested if  
-
-### 06-practice.js
-- Practice based on operators and conditions  
-
-### 07-loops.js
-- for loop  
-- while loop  
-- do-while loop  
-- for...of  
-- for...in  
-- break & continue  
-
-### 08-strings.js
-- String creation & manipulation  
-- Common string methods  
-- String immutability  
-
-### 09-practice.js
-- Loop & string based practice questions  
-
-### 10-arrays.js
-- Array creation  
-- push, pop, shift, unshift  
-- slice vs splice  
-- Looping arrays  
-
-### 11-practice.js
-- Array-based logic building practice  
-
-### 12-function-and-methods.js
-- Function declaration  
-- Parameters & return  
-- Arrow functions  
-- Object, String & Array methods  
-
-### 13-practice.js
-- Practice questions on functions and methods  
-
 ### 14-dom.js
-- DOM introduction  
-- Element selection  
-- Style & text manipulation  
-- Dynamic DOM examples  
+- Introduction to DOM (Document Object Model)
+- Selecting elements using JavaScript
+- Changing text and styles dynamically
+- Basic DOM manipulation practice
 
-### 15-dom-practice.js / html
-- DOM practice questions with solutions  
-- Button, input and dynamic element handling  
+### 16-events.html / 16-events.js
+- JavaScript events introduction
+- Button click events
+- Input events
+- Event handling basics
 
-### 16-events.js / html
-- JavaScript events theory  
-- click, input, mouse, keyboard, form events  
+### 17-events-practice.html
+- HTML structure for event practice
+- Buttons, input fields, and interactive elements
+- Connected with external JavaScript file
 
-### 17-events-practice.js / html
-- Event-based practice questions  
-- Counter, input tracking, hover effects  
+### 17-events-practice.js
+- Button click counter
+- Input character counter
+- Mouse hover and mouse out events
+- Real-time DOM updates using events
 
 ### 18-classes-and-objects.js
-- JavaScript classes and objects  
-- constructor  
-- methods  
-- real-world class examples  
+- Introduction to Classes and Objects
+- Constructor method
+- Properties and methods
+- Real-world example using classes
 
 ### 19-classes-objects-practice.js
-- Practice questions based on classes & objects  
-- Object-oriented thinking  
+- Practice questions on classes and objects
+- Object creation using class
+- Method calling and logic building
+- Strengthening OOP concepts
 
 ### callback_promise_async.js
-- Callback functions  
-- Promises (then / catch)  
-- Async & Await  
-- Asynchronous JavaScript flow  
+- Callback functions
+- Introduction to Promises
+- Async and Await concept
+- Understanding asynchronous JavaScript
+
+### callback_promise_async_practice.js
+- Practice questions on callbacks
+- Promise-based examples
+- Async/Await hands-on practice
+- Understanding async flow with examples
 
 ---
 
 ## 🎯 Purpose
+
 - Build strong JavaScript fundamentals  
 - Practice concepts with clean and readable code  
+- Learn DOM manipulation and event handling  
+- Understand asynchronous JavaScript  
 - Track daily learning progress using GitHub  
-- Prepare for frontend & backend development  
 
 ---
 
 ## 👤 Author
+
 **Ajeet Yadav**  
-JavaScript Learner | Future Full Stack Developer  
+JavaScript Learner | Frontend Developer in Progress  
 
 This repository is updated regularly as I continue learning JavaScript.
